@@ -33,5 +33,5 @@ Although this is predominantly for testing what can be done with a Git repositor
 
 ```python battleship.py```
 
-[Here](https://en.wikipedia.org/wiki/Battleship_(game\)) are the rules to Battleship (this project may take some liberties.) Please note that when inputting the coordinates for a ship it must be in a Python list like so: 
+[Here](https://en.wikipedia.org/wiki/Battleship_(game)) are the rules to Battleship (this project may take some liberties.) Please note that when inputting the coordinates for a ship it must be in a Python list like so: 
 ```[(1,2),(2,2),(3,2)]```
