@@ -14,13 +14,14 @@ All done! ✨ 🍰 ✨
 1 file reformatted.
 ```
 
-###Example output when files are formatted correctly
+### Example output when files are formatted correctly
 ```
 git commit
 black....................................................................Passed
 [master 66324bf]
 ```
-###Example output when Python files are unchanged
+
+### Example output when Python files are unchanged
 ```
 git commit
 black................................................(no files to check)Skipped
